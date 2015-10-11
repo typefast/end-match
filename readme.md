@@ -1,0 +1,1 @@
+A javascript function that checks if a target input word matches the last word in the string
